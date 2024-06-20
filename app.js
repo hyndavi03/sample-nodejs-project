@@ -1,6 +1,6 @@
 /*
 
-GEREKLİ PAKETLER YÜKLENİYOR...
+GEREKLİ PAKETLER YÜKLENİYOR..
 
 */
 var http = require('http');
